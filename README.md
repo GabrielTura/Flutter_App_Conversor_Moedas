@@ -1,6 +1,8 @@
 # conversor
 
-Criação do App - Conversor de Moedas em Flutter.
+Criação do App - Conversor de Moedas com Flutter e APIs.
+
+API utilizada "HGFINANCE".
 
 ## Getting Started
 
